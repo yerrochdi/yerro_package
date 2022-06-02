@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: helpers
 Version: 1.0.0
-Summary: Out custom collection of helper, functions and variables
+Summary: A sample Python project
 Home-page: https://github.com/pypa/sampleproject
 Author: A. Random Developer
 Author-email: author@example.com
@@ -12,14 +12,18 @@ Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
 Classifier: Topic :: Software Development :: Build Tools
 Classifier: License :: OSI Approved :: MIT License
-Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.7
 Classifier: Programming Language :: Python :: 3.8
 Classifier: Programming Language :: Python :: 3.9
 Classifier: Programming Language :: Python :: 3.10
 Classifier: Programming Language :: Python :: 3 :: Only
-Requires-Python: >=3.6, <4
+Requires-Python: >=3.7, <4
 Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: test
 
-UNKNOWN
+# yerro_package
+My first package
+
 
